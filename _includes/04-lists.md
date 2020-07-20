@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Here is a list of my favorite things:
+
+- Cat
+- Sleep
+  - Sleeping in a cold room with a warm blanket
