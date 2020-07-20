@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Things I can do
+
+1. Maybe cook
+2. *Can* read
+3. Hot temper
+    1. **quick to judge**
